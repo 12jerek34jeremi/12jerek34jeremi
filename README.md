@@ -2,4 +2,4 @@ Hi, I'm Jędrzej Chmiel. [Here (link)](https://12jerek34jeremi.github.io/) you c
 
 <br/>
 
- I am a student of Computer Science (second year) at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology).
+ I am a student of Computer Science at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology).
