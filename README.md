@@ -1,4 +1,4 @@
-Hi, I'm Jędrzej Chmiel. I study Computer Science at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology). In June (2025) I will finish my bachelor degree. You can contact me on [LinkedIn](www.linkedin.com/in/jedrzej-chmiel481a8423b) .
+Hi, I'm Jędrzej Chmiel. I study Computer Science at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology). In June (2025) I will finish my bachelor's degree. You can contact me on [LinkedIn](www.linkedin.com/in/jedrzej-chmiel-481a8423b) .
 
 
 Some of my projects:
