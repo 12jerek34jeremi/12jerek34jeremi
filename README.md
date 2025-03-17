@@ -1,4 +1,4 @@
-Hi, I'm Jędrzej Chmiel. I study Computer Science at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology). In June (2025) I will finish my bachelor's degree. You can contact me on [LinkedIn](www.linkedin.com/in/jedrzej-chmiel-481a8423b) .
+Hi, I'm Jędrzej Chmiel. I study Computer Science at the Warsaw University of Technology at WEiTI (Faculty of Electronics and Information Technology). In June (2025) I will finish my bachelor's degree. You can contact me on [LinkedIn](https://linkedin.com/in/jedrzej-chmiel-481a8423b) .
 
 
 Some of my projects:
@@ -10,7 +10,7 @@ for classification, generating movies, and data augmentation. I am doing this pr
 bachelor's thesis. The project is still in progress. An [interesting
 issue](https://github.com/VincentStimper/normalizing-flows/issues/67) was created regarding the
 project.
-- [Grab a Car](www.github.com/12jerek34jeremi/grabacar) ‑ A mobile application (flutter) for
+- [Grab a Car](https://github.com/12jerek34jeremi/grabacar) ‑ A mobile application (flutter) for
 short‑term car rental.
-- [LTL Conformance Checking](www.github.com/12jerek34jeremi/confermence) ‑ A web application for
+- [LTL Conformance Checking](https://github.com/12jerek34jeremi/confermence) ‑ A web application for
 Customizable Linear Temporal Logic Checking.
