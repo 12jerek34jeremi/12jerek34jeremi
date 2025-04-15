@@ -10,7 +10,8 @@ for classification, generating movies, and data augmentation. I am doing this pr
 bachelor's thesis. The project is still in progress. An [interesting
 issue](https://github.com/VincentStimper/normalizing-flows/issues/67) was created regarding the
 project.
-- [Grab a Car](https://github.com/12jerek34jeremi/grabacar) ‑ A mobile application (flutter) for
-short‑term car rental.
+- [Distance Calculator](https://github.com/12jerek34jeremi/distance_calculator) - A web application for calculating the distance between two geographic points. (Vue JS + PHP)
 - [LTL Conformance Checking](https://github.com/12jerek34jeremi/confermence) ‑ A web application for
 Customizable Linear Temporal Logic Checking.
+- [Grab a Car](https://github.com/12jerek34jeremi/grabacar) ‑ A mobile application (flutter) for
+short‑term car rental.
